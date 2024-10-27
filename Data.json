@@ -3,5 +3,10 @@
     "age": 16,
     "student": true,
     "position": "CEO"
+  },
+  "Abdul": {
+    "age": 17,
+    "student": true,
+    "position": "Developer"
   }
 }
