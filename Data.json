@@ -1,12 +1,12 @@
-{
-  "Nayem": {
-    "age": 16,
-    "student": true,
-    "position": "CEO"
-  },
-  "Abdul": {
-    "age": 17,
-    "student": true,
-    "position": "Developer"
-  }
-}
+[
+  {
+    "id": 1,
+    "name": "Nayem",
+    "username": "CEO",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",}
+   }]
